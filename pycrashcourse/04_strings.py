@@ -8,3 +8,9 @@ middle_name = "fortnite"
 
 full_name = f"{first_name} {middle_name}"
 print(f"hello, {full_name.title()}")
+
+print("\tPython\nC\Javascript")
+
+lang = " JS "
+lang = lang.strip()
+print(lang)
